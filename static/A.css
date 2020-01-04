@@ -1,0 +1,25 @@
+/*=========½Å×¢²Ëµ¥===========*/
+div#bottommenu{
+margin: 0;
+padding:0;
+border: 0;
+height: 70px;
+color:#fff;
+font:16px/70px 'microsoft yahei','SimSun',Arial,Sans-Serif;
+text-align:center;
+}
+
+
+div#bottommenu a:link,div#bottommenu a:visited,div#bottommenu a:active{
+margin:0px 30px 0px 30px;
+color:#fff;
+font:16px/70px 'microsoft yahei','SimSun',Arial,Sans-Serif;
+text-decoration: none;
+}
+
+div#bottommenu a:hover{
+color:#D0DEFF;
+font:16px/70px 'microsoft yahei','SimSun',Arial,Sans-Serif;
+text-decoration: none;
+}
+
