@@ -1,1 +1,1 @@
-webAppPlus.github.io
+webAppPlus.github.io/dist
