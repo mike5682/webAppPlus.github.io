@@ -345,7 +345,7 @@ p.lead {
 }
 
 .owl-carousel .owl-dots .owl-dot.active span {
-  background: #fff;
+  background: #f1f1f1;
 }
 
 .owl-carousel .owl-dots .owl-dot span {
@@ -357,7 +357,7 @@ p.lead {
 }
 
 .dark-mask {
-  background: rgba(0, 0, 0, 0.3);
+  
   width: 100%;
   height: 100%;
   position: absolute;
@@ -367,7 +367,7 @@ p.lead {
 }
 
 .dark-mask.mask-primary {
-  background: rgba(79, 191, 168, 0.9);
+  
 }
 
 .icon-outlined {
@@ -998,8 +998,8 @@ header.nav-holder.sticky {
 }
 
 .home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  /* padding-top: 60px;
+  padding-bottom: 20px; */
 }
 
 .home-carousel h1, .home-carousel h2 {
